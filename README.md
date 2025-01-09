@@ -1,7 +1,7 @@
 # Jack the Gripper
 
 # What it is
-
+We build a small gripper roboter, whose purpose is (as the name implies) gripping things and transporting them to different places. Additionally the robot can follow a line based on its color sensor. 
 # Our idea and its developement
 We wanted to 
 
