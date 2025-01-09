@@ -12,4 +12,5 @@ We wanted to
 
 
 # Lessons learned and future works
-We learned a lot about working with the LEGO set and about how to put the parts together in a way that makes sense and works for the intended functions, like the gripping arms of Jack.
+We learned a lot about working with the LEGO set and about how to put the parts together in a way that makes sense and works for the intended functions, like the gripping arms of Jack. 
+We also learned how the sensors work and about their limitations. For example, the colour sensor only works in very close proximity to an object and only recognizes specific colours (only colours that are present in the LEGO set). Also, the line of colour/black that Jacks follows has to be quite thick, otherwise it only recognizes the white ground in the arena.
