@@ -7,10 +7,10 @@ We build a small gripper roboter, whose purpose is (as the name implies) grippin
 We wanted to 
 
 # Installation & Prerequisites
-1.  Get the LEGO® Education SPIKE™ Prime-Set to build your roboter.
-2.   Download the LEGO® Education SPIKE™ App to your computer. Choose the right version for your operating system.
+1. Get the LEGO® Education SPIKE™ Prime-Set to build your roboter.
+2. Download the LEGO® Education SPIKE™ App to your computer. Choose the right version for your operating system.
 
 
 # Lessons learned and future works
 We learned a lot about working with the LEGO set and about how to put the parts together in a way that makes sense and works for the intended functions, like the gripping arms of Jack. 
-We also learned how the sensors work and about their limitations. For example, the colour sensor only works in very close proximity to an object and only recognizes specific colours (only colours that are present in the LEGO set). Also, the line of colour/black that Jacks follows has to be quite thick, otherwise it only recognizes the white ground in the arena.
+We also learned how the sensors work and about their limitations. For example, the colour sensor only works in very close proximity to an object and only recognizes specific colours (only colours that are present in the LEGO set). Also, the line of colour/black that Jacks follows has to be quite thick, otherwise it only recognizes the white ground in the arena and cannot follow the line. Generally, working with the sensors was quite trial-and-error, we had to find out what works and what does not. 
