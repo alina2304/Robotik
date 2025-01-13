@@ -6,14 +6,13 @@ We build a small gripper roboter, whose purpose is (as the name implies) grippin
 # Our idea and its developement
 We wanted to 
 
-# Building Jack the Gripper
-
-# Programming
-
 # Installation & Prerequisites
 1. Get the LEGO® Education SPIKE™ Prime-Set to build your roboter.
 2. Download the LEGO® Education SPIKE™ App to your computer. Choose the right version for your operating system.
 
+# Building Jack the Gripper
+
+# Programming
 
 # Lessons learned and future works
 We learned a lot about working with the LEGO set and about how to put the parts together in a way that makes sense and works for the intended functions, like the gripping arms of Jack. 
