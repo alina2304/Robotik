@@ -4,7 +4,8 @@
 We build a small gripper roboter, whose purpose is (as the name implies) gripping things and transporting them to different places. The robots name is Jack the Gripper. Additionally Jack can follow a line based on its color sensor. The main function of Jack is following a line in an arena, and if he encounters/detects obstacles he grips them and he moves them out the way of the line, then returns to the line and starts following it again, until the next obstacle.
 
 # Our idea and its developement
-We wanted to 
+At the beginning we wanted to develop a gripping robot that can recognize different colored objects and sort them by color. This would work by bringing the different colored objects to plattforms of the corresponding color (e.g. a red object will be transported to the red plattform/red area). However, we had to change this initial vision to accomodate the capacities of the color-sensor. This sensor only works at a very short distance, therefore making it impossible to identify the color of an object that is held in the gripping arms. Fastening the sensor onto the arms also was not possible, because that would make the arm to heavy and awkward.
+That is why we changed our idea. Now the color-sensor is used to identify a black line on white ground to follow it. The gripping arms are used to grip objects on the path and take them out of the way. 
 
 # Installation & Prerequisites
 1. Get the LEGO® Education SPIKE™ Prime-Set to build your roboter.
