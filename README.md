@@ -8,8 +8,8 @@ At the beginning we wanted to develop a gripping robot that can recognize differ
 That is why we changed our idea. Now the color-sensor is used to identify a black line on white ground to follow it. The gripping arms are now used to grip objects on the path and take them out of the way. Afterwards our robot returns to the line and follows it again.
 
 # Installation & Prerequisites
-1. Get the LEGO® Education SPIKE™ Prime-Set to build your roboter.
-2. Download the LEGO® Education SPIKE™ App to your computer. Choose the right version for your operating system.
+1. Get the [LEGO® Education SPIKE™ Prime-Set](https://education.lego.com/de-de/products/lego-education-spike-prime-set/45678/) to build your roboter.
+2. Download the [LEGO® Education SPIKE™ App](https://education.lego.com/de-de/downloads/spike-app/software/) to your computer. Choose the right version for your operating system.
 
 # Building Jack the Gripper
 Our design for the gripping arms was inspired by [this website](https://www.robocamp.eu/en/blog/robot-spike-manipulator-lesson/), that showed a gripping robot. It fittet our initial idea of the gripping function the best, and our gripping arms are build similary to the ones shown on the website, with only minor changes. 
