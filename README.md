@@ -12,8 +12,9 @@ That is why we changed our idea. Now the color-sensor is used to identify a blac
 2. Download the [LEGO® Education SPIKE™ App](https://education.lego.com/de-de/downloads/spike-app/software/) to your computer. Choose the right version for your operating system.
 
 # Building Jack the Gripper
-Our design for the gripping arms was inspired by [this website](https://www.robocamp.eu/en/blog/robot-spike-manipulator-lesson/), that showed a gripping robot. It fittet our initial idea of the gripping function the best, and our gripping arms are build similary to the ones shown on the website, with only minor changes. 
+Our design for the gripping arms was inspired by [this website](https://www.robocamp.eu/en/blog/robot-spike-manipulator-lesson/), that showed a gripping robot. It fittet our initial idea of the gripping function the best, and our gripping arms are build similary to the ones shown on the website, with minor changes. 
 For the wheels and the driving function of the robot, we just tried different wheels from the LEGO set and how to build them onto the robot. The motors for the wheels, as well as the color and distance sensors, are located below the plattform on which the gripping arms are mounted. 
+To make Jack look nicer, we added some decorative elements, like a big wheel at the rear of the robot, to hide some of its inner workings (like the motor for the gripping arms). We also added eyes that kind of look like the eyes of a crab, because of the similarity between the gripping arms of Jack and the claws of the crab. With the eyebrows, Jack can be made to look either angry or nervous. We also added some grey tubes for the cables of the motors/sensors to wrap around and stabilize. 
 
 # Programming
 
