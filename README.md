@@ -25,7 +25,8 @@ For the wheels and the driving function of the robot, we just tried different wh
 
 To make Jack look nicer, we added some decorative elements, like a big wheel at the rear of the robot, to hide some of its inner workings (like the motor for the gripping arms). We also added eyes that kind of look like the eyes of a crab, because of the similarity between the gripping arms of Jack and the claws of the crab. With the eyebrows, Jack can be made to look either angry or nervous. We also added some grey tubes for the cables of the motors/sensors to wrap around and stabilize. 
 
--> hier bilder von deko
+![WhatsApp Image 2025-01-23 at 16 (1)](https://github.com/user-attachments/assets/00fe403e-4b70-4bd0-b1e1-228a8913a7dd)
+
 
 
 # Programming
