@@ -7,6 +7,9 @@ We build a small gripper robot, whose purpose is (as the name implies) gripping 
 At the beginning we wanted to develop a gripping robot that can recognize different colored objects and sort them by color. This would work by bringing the different colored objects to plattforms of the corresponding color (e.g. a red object will be transported to the red plattform/red area). However, we had to change this initial vision to accomodate the capacities of the color-sensor. This sensor only works at a very short distance, therefore making it impossible to identify the color of an object that is held in the gripping arms. Fastening the sensor onto the arms also was not possible, because that would make the arm to heavy and awkward.
 That is why we changed our idea. Now the color-sensor is used to identify a black line on white ground to follow it. The gripping arms are now used to grip objects on the path and take them out of the way. Afterwards our robot returns to the line and follows it again.
 
+![WhatsApp Image 2024-11-28 at 18 (1)](https://github.com/user-attachments/assets/7bc185c0-22d8-432e-80d4-8b426627de6d)
+
+
 # Installation & Prerequisites
 1. Get the [LEGO® Education SPIKE™ Prime-Set](https://education.lego.com/de-de/products/lego-education-spike-prime-set/45678/) to build your roboter.
 2. Download the [LEGO® Education SPIKE™ App](https://education.lego.com/de-de/downloads/spike-app/software/) to your computer. Choose the right version for your operating system.
