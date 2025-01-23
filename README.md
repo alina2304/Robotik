@@ -19,6 +19,8 @@ Our design for the gripping arms was inspired by [this website](https://www.robo
 For the wheels and the driving function of the robot, we just tried different wheels from the LEGO set and how to build them onto the robot. The motors for the wheels, as well as the color and distance sensors, are located below the plattform on which the gripping arms are mounted. 
 
 ![WhatsApp Image 2024-11-14 at 18](https://github.com/user-attachments/assets/762f7a83-7465-48e8-8663-874baa7bd03b)
+![WhatsApp Image 2025-01-23 at 16](https://github.com/user-attachments/assets/63eed561-5dd5-4441-bd12-fe26164e771c)
+
 
 
 To make Jack look nicer, we added some decorative elements, like a big wheel at the rear of the robot, to hide some of its inner workings (like the motor for the gripping arms). We also added eyes that kind of look like the eyes of a crab, because of the similarity between the gripping arms of Jack and the claws of the crab. With the eyebrows, Jack can be made to look either angry or nervous. We also added some grey tubes for the cables of the motors/sensors to wrap around and stabilize. 
