@@ -30,6 +30,13 @@ To make Jack look nicer, we added some decorative elements, like a big wheel at 
 
 
 # Programming
+To program Jack the Gripper we used the Lego Spike App and its programming user interface. After opening the App you will see a variety of tutorials and example projects. We recommend the "First steps"-Tutorial because it will shortly introduce you to crucial components and commands in a playful manner.
+
+To start your own project, click on the button "New project". If you want to use an already existing project you can find it by clicking on "my projects" in the menu on the left. Give your project a name and choose your programming language. In the Spike App you can choose between symbol bricks, text bricks, or python. Please choose text bricks to follow this tutorial.
+
+Now you are in coding mode.
+
+Follow the instructions to connect your PC to the Hub. If you connect sensors to the Hub, you will also see their output on the top menu. On the left you can see a menu with different types of bricks. Choose them by clicking and moving them around via drag-n-drop.
 
 # Lessons learned and future works
 We learned a lot about working with the LEGO set and about how to put the parts together in a way that makes sense and works for the intended functions, like the gripping arms of Jack. 
