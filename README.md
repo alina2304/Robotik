@@ -15,7 +15,8 @@ That is why we changed our idea. Now the color-sensor is used to identify a blac
 Our design for the gripping arms was inspired by [this website](https://www.robocamp.eu/en/blog/robot-spike-manipulator-lesson/), that showed a gripping robot. It fittet our initial idea of the gripping function the best, and our gripping arms are build similary to the ones shown on the website, with minor changes. 
 For the wheels and the driving function of the robot, we just tried different wheels from the LEGO set and how to build them onto the robot. The motors for the wheels, as well as the color and distance sensors, are located below the plattform on which the gripping arms are mounted. 
 To make Jack look nicer, we added some decorative elements, like a big wheel at the rear of the robot, to hide some of its inner workings (like the motor for the gripping arms). We also added eyes that kind of look like the eyes of a crab, because of the similarity between the gripping arms of Jack and the claws of the crab. With the eyebrows, Jack can be made to look either angry or nervous. We also added some grey tubes for the cables of the motors/sensors to wrap around and stabilize. 
-![Unbenannt](https://github.com/user-attachments/assets/24a47928-6616-432e-828a-bb92cdb92fd8)
+![WhatsApp Image 2024-11-14 at 18 20 24](https://github.com/user-attachments/assets/72a4bcd3-7e2a-44ea-ad16-6747b7cec9d0)
+
 
 
 # Programming
