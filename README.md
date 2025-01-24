@@ -1,5 +1,6 @@
 # Jack the Gripper
 Gripper robot
+
 ![WhatsApp Image 2025-01-23 at 17](https://github.com/user-attachments/assets/aeb9c37d-5446-4600-b461-a043e5375784)
 
 # What it is
