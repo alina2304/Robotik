@@ -7,9 +7,10 @@ Gripper robot
 We build a small gripper robot, whose purpose is (as the name implies) gripping things and transporting them out of its path. The robots name is Jack the Gripper. Additionally Jack can follow a line based on its color sensor. The main function of Jack is following a line in an arena, and if he encounters/detects obstacles he grips them and he moves them out the way of the line, then returns to the line and starts following it again, until the next obstacle.
 
 # Our idea and its developement
-At the beginning we wanted to develop a gripping robot that can recognize different colored objects and sort them by color. This would work by bringing the different colored objects to plattforms of the corresponding color (e.g. a red object will be transported to the red plattform/red area). However, we had to change this initial vision to accomodate the capacities of the color-sensor. This sensor only works at a very short distance, therefore making it impossible to identify the color of an object that is held in the gripping arms. Fastening the sensor onto the arms also was not possible, because that would make the arm to heavy and awkward.
-That is why we changed our idea. Now the color-sensor is used to identify a black line on white ground to follow it. The gripping arms are now used to grip objects on the path and take them out of the way. Afterwards our robot returns to the line and follows it again.
+At the beginning we wanted to develop a gripping robot that can recognize different colored objects and sort them by color. This would work by bringing the different colored objects to platforms of the corresponding color (e.g. a red object will be transported to the red plattform/red area). However, we had to change this initial vision to accomodate the capacities of the color-sensor. This sensor only works at a very short distance, therefore making it impossible to identify the color of an object that is held in the gripping arms. Fastening the sensor onto the arms also was not possible, because that would make the arm to heavy and awkward to operate properly.
+That is why we changed our idea. Now the color-sensor is used to identify a black line on white ground to follow. The gripping arms are now used to grip objects on the path and move them out of the way. Afterwards our robot returns to the line and follows it again.
 
+The picture shows a first version of Jack.
 ![WhatsApp Image 2024-11-28 at 18 (1)](https://github.com/user-attachments/assets/7bc185c0-22d8-432e-80d4-8b426627de6d)
 
 
@@ -19,7 +20,7 @@ That is why we changed our idea. Now the color-sensor is used to identify a blac
 
 # Building Jack the Gripper
 Our design for the gripping arms was inspired by [this website](https://www.robocamp.eu/en/blog/robot-spike-manipulator-lesson/), that showed a gripping robot. It fit our initial idea of the gripping function the best, and our gripping arms are build similary to the ones shown on the website, with minor changes. 
-For the wheels and the driving function of the robot, we just tried different wheels from the LEGO set and how to build them onto the robot. The motors for the wheels, as well as the color and distance sensors, are located below the plattform on which the gripping arms are mounted. 
+For the wheels and the driving function of the robot, we just tried different wheels from the LEGO set and how they fit with our design. The motors for the wheels, as well as the color and distance sensors, are located below the plattform on which the gripping arms are mounted. 
 
 ![WhatsApp Image 2024-11-14 at 18](https://github.com/user-attachments/assets/762f7a83-7465-48e8-8663-874baa7bd03b)
 ![WhatsApp Image 2025-01-23 at 16](https://github.com/user-attachments/assets/63eed561-5dd5-4441-bd12-fe26164e771c)
@@ -30,16 +31,18 @@ To make Jack look nicer, we added some decorative elements, like a big wheel at 
 
 ![WhatsApp Image 2025-01-23 at 16 (1)](https://github.com/user-attachments/assets/00fe403e-4b70-4bd0-b1e1-228a8913a7dd)
 
-
+Jack in angry mode and in nervous mode: (Bilder einfügen von den Augenbrauen-Modi)
 
 # Programming
-To program Jack the Gripper we used the Lego Spike App and its programming user interface. After opening the App you will see a variety of tutorials and example projects. We recommend the "First steps"-Tutorial because it will shortly introduce you to crucial components and commands in a playful manner.
+For programming Jack the Gripper we used the Lego Spike App and its programming user interface. After first opening the App you will see some tutorials and example projects. If you have not programmed before or are unfamiliar with the platform, the "First steps"-Tutorial might be of use to you.
+To start a new project, click the button "New project". If you want to use an already existing project you can find it by clicking "my projects" in the menu on the left. You can choose between different programming languages: symbol bricks, text bricks, or python. For our project, we used the text bricks.
 
-To start your own project, click on the button "New project". If you want to use an already existing project you can find it by clicking on "my projects" in the menu on the left. Give your project a name and choose your programming language. In the Spike App you can choose between symbol bricks, text bricks, or python. Please choose text bricks to follow this tutorial.
+Follow the instructions to connect your laptop to the Hub. If you connect sensors to the Hub, you will also see their output on the top menu. On the left you can see a menu with different types of bricks with different functions. 
 
-Now you are in coding mode.
+In the following, we will present our code for Jack and explain what it does.
 
-Follow the instructions to connect your PC to the Hub. If you connect sensors to the Hub, you will also see their output on the top menu. On the left you can see a menu with different types of bricks. Choose them by clicking and moving them around via drag-n-drop.
+ein Bild als Übersicht vom Code
+dann Erklärung für die verschiedenen Blöcke mit jeweils bildern, welchen Block man gerade beschreibt -> siehe vergleich Spike Dog
 
 # Lessons learned and future works
 We learned a lot about working with the LEGO set and about how to put the parts together in a way that makes sense and works for the intended functions, like the gripping arms of Jack. 
