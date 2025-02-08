@@ -27,7 +27,8 @@ For the wheels and the driving function of the robot, we just tried different wh
 
 The most important parts from the Lego set, that we used to build Jack, are shown in this picture. Please note that the picture does not extensively show every piece and how many of them you have to use, but from the picure and the pictures of Jack you should be able to figure out what to use if you wanted to build Jack. Just add connecting pieces as needed. 
 
-Bild von den ganzen Einzelteilen
+![WhatsApp Image 2025-01-23 at 17 (1)](https://github.com/user-attachments/assets/357b4dce-bfc2-4e10-8211-01148877d701)
+
 
 Pictures of the final version of Jack from different perspectives are shown below. To make Jack look nicer, we added some decorative elements, like a big wheel at the rear of the robot, to hide some of its inner workings (like the motor for the gripping arms). We also added eyes that kind of look like the eyes of a crab, because of the similarity between the gripping arms of Jack and the claws of the crab. With the eyebrows, Jack can be made to look either angry or nervous. We also added some grey tubes for the cables of the motors/sensors to wrap around and stabilize. 
 
@@ -46,7 +47,8 @@ Follow the instructions to connect your laptop to the Hub. If you connect sensor
 
 In the following, we will present our code for Jack and explain what it does.
 
-ein Bild als Übersicht vom Code
+![WhatsApp Image 2025-01-23 at 16 49 34](https://github.com/user-attachments/assets/c3795e15-789c-49b1-a17e-50a7ed15720a)
+
 dann Erklärung für die verschiedenen Blöcke mit jeweils bildern, welchen Block man gerade beschreibt -> siehe vergleich Spike Dog
 
 # Lessons learned and future works
