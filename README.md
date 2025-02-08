@@ -40,12 +40,12 @@ Jack in angry mode and in nervous mode:
 (Bilder einfügen von den Augenbrauen-Modi)
 
 # Programming
-For programming Jack the Gripper we used the Lego Spike App and its programming user interface. After first opening the App you will see some tutorials and example projects. If you have not programmed before or are unfamiliar with the platform, the "First steps"-Tutorial might be of use to you.
+For programming Jack the Gripper we used the Lego Spike App and its programming user interface. After opening the app you will see some tutorials and example projects. If you have not programmed before or are unfamiliar with the platform, the "First steps"-Tutorial might be of use to you.
 To start a new project, click the button "new project". If you want to use an already existing project you can find it by clicking "my projects" in the menu on the left. You can choose between different programming languages: symbol bricks, text bricks, or python. For our project, we used the text bricks.
 
 Follow the instructions to connect your laptop to the Hub. If you connect sensors to the Hub, you will also see their output on the top menu. On the left you can see a menu with different types of bricks with different functions. 
 
-In the following, we will present our code for Jack and explain what it does.
+In the following, we will present our code (shown in its entirety here) for Jack and explain what it does.
 
 ![WhatsApp Image 2025-01-23 at 16 49 34](https://github.com/user-attachments/assets/f98240bf-8da2-45e0-9147-71ca9a26e278)
 
