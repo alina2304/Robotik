@@ -47,7 +47,8 @@ Follow the instructions to connect your laptop to the Hub. If you connect sensor
 
 In the following, we will present our code for Jack and explain what it does.
 
-![WhatsApp Image 2025-01-23 at 16 49 34](https://github.com/user-attachments/assets/c3795e15-789c-49b1-a17e-50a7ed15720a)
+![WhatsApp Image 2025-01-23 at 16 49 34](https://github.com/user-attachments/assets/f98240bf-8da2-45e0-9147-71ca9a26e278)
+
 
 dann Erklärung für die verschiedenen Blöcke mit jeweils bildern, welchen Block man gerade beschreibt -> siehe vergleich Spike Dog
 
