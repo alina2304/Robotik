@@ -25,7 +25,7 @@ For the wheels and the driving function of the robot, we just tried different wh
 ![WhatsApp Image 2024-11-14 at 18](https://github.com/user-attachments/assets/762f7a83-7465-48e8-8663-874baa7bd03b)
 ![WhatsApp Image 2025-01-23 at 16](https://github.com/user-attachments/assets/63eed561-5dd5-4441-bd12-fe26164e771c)
 
-The most important parts from the Lego set, that we used to build Jack, are shown in this picture. Please note that the picture does not extensively show every piece and how many of them you have to use, but from the picure and the pictures of Jack you should be able to figure out what to use if you wanted to build Jack. Just add connecting pieces as needed. 
+The most important parts from the Lego set that were used to build Jack are shown in this picture. Please note that the picture does not extensively show every piece and how many of them you have to use, but from the picure and the pictures of Jack you should be able to figure out what to use and how to connect the different pieces if you wanted to build Jack. Just add connecting pieces as needed. 
 
 ![WhatsApp Image 2025-01-23 at 17 (1)](https://github.com/user-attachments/assets/357b4dce-bfc2-4e10-8211-01148877d701)
 
