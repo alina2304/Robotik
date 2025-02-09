@@ -32,7 +32,6 @@ The most important parts from the Lego set that were used to build Jack are show
 
 Pictures of the final version of Jack from different perspectives are shown below. To make Jack look nicer, we added some decorative elements, like a big wheel at the rear of the robot, to hide some of its inner workings (like the motor for the gripping arms). We also added eyes that kind of look like the eyes of a crab, because of the similarity between the gripping arms of Jack and the claws of the crab. With the eyebrows, Jack can be made to look either angry or nervous. We also added some grey tubes for the cables of the motors/sensors to wrap around and stabilize. 
 
-noch mehr Bilder aus mehreren Perspektiven von dem fertigen Roboter einfügen
 
 ![WhatsApp Image 2025-01-23 at 17 41 54(1)](https://github.com/user-attachments/assets/2c736761-079d-46a1-909c-ec5f6f0890f2)
 ![WhatsApp Image 2025-01-23 at 17 41 54(2)](https://github.com/user-attachments/assets/b906799b-a69c-41bd-b1fd-cd711eef71d8)
