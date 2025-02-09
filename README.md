@@ -42,8 +42,9 @@ noch mehr Bilder aus mehreren Perspektiven von dem fertigen Roboter einfügen
 
 Jack in angry mode and in nervous mode: 
 
-![IMG-20250123-WA0020](https://github.com/user-attachments/assets/4f998e54-dba7-48b0-8999-678c8fca358c)
-![IMG_20250209_123139](https://github.com/user-attachments/assets/23b9b419-a5be-4b23-b941-72ae17aac9f9)
+![WhatsApp Image 2025-01-23 at 17 29 51(2)](https://github.com/user-attachments/assets/f7c16577-385e-48a3-ab02-5c342522d9c7)
+![WhatsApp Image 2025-01-23 at 17 29 51(3)](https://github.com/user-attachments/assets/bf91b179-2edd-4a60-ab2b-0a228aefd26c)
+
 
 # Programming
 For programming Jack the Gripper we used the Lego Spike App and its programming user interface. After opening the app you will see some tutorials and example projects. If you have not programmed before or are unfamiliar with the platform, the "First steps"-Tutorial might be of use to you.
