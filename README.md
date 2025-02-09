@@ -70,14 +70,14 @@ Here, we defined a new block that manages the process of gripping a detected obj
 
 ## Opening and Closing Arms
 
-![Arme bewegen](https://github.com/user-attachments/assets/282ec485-11e9-4a2d-86a8-7a9271548141)
+![WhatsApp Image 2025-02-09 at 16 53 38(1)](https://github.com/user-attachments/assets/7b471b6e-8a6f-4834-925f-2447ca87215a)
 
 Opening and closing the gripping arms required a separate motor. The block "Arme schließen" consists of two bricks from the section "Motoren". In both bricks "E" was selected since the motor was attached to port "E" on the hub. The first brick sets the motor power to 7 % which can be changed according to own preferences. We chose 7 % in order to create a rather slow and careful motion. We found out that Jack's arms are closed when the value of the motor position is 180. The second brick therefore makes the motor move into this position by rotating counter-clockwise. 
 The block "Arme öffnen" uses the sme to bricks with adapted values of the desired motor position and direction of rotation. 
 
 ## Setting the object down
 
-![Ausweichen](https://github.com/user-attachments/assets/ba058e99-5d01-4a48-aaae-73b1859d872f)
+![WhatsApp Image 2025-02-09 at 16 53 38(2)](https://github.com/user-attachments/assets/2ad3680a-ad26-4129-b168-db98a6f7404b)
 
 Once Jack has gripped an object we wanted him to put it out of the way. We defined the "Ausweichen" action to enable Jack to drive away from the black line with the object, let it go and come back to the original position. The first three pink bricks make Jack turn right an drive five centimeters straight forward. Afterwards we used our self-created brick "Arme öffnen" for Jack to let go of the object. The following bricks are reversing the previous actions by moving backwards, closing the arms and turning left resulting in Jack being positioned back on the black line. All values used in this block can be adapted to own preferences. Make sure that the angels for the right and left turn as well as the distance for driving forwards and backwards are equal. Otherwise Jack will not return to the original position on the black line.
 
