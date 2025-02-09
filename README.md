@@ -36,7 +36,6 @@ noch mehr Bilder aus mehreren Perspektiven von dem fertigen Roboter einfügen
 
 ![WhatsApp Image 2025-01-23 at 17 41 54(1)](https://github.com/user-attachments/assets/2c736761-079d-46a1-909c-ec5f6f0890f2)
 ![WhatsApp Image 2025-01-23 at 17 41 54(2)](https://github.com/user-attachments/assets/b906799b-a69c-41bd-b1fd-cd711eef71d8)
-![WhatsApp Image 2025-01-23 at 17 (2)](https://github.com/user-attachments/assets/4cc1f7a8-bc80-4e15-a32e-669378ea5762)
 ![WhatsApp Image 2025-02-09 at 18 01 52](https://github.com/user-attachments/assets/e067a4f7-43b8-4117-9686-cdd0a830a891)
 ![WhatsApp Image 2025-01-23 at 17 30 50](https://github.com/user-attachments/assets/27b65096-fc3c-4c91-8a95-b6e8a31cb76e)
 
