@@ -34,11 +34,12 @@ Pictures of the final version of Jack from different perspectives are shown belo
 
 noch mehr Bilder aus mehreren Perspektiven von dem fertigen Roboter einfügen
 
-![IMG_20250123_174120](https://github.com/user-attachments/assets/ea8b04f2-5634-4fe5-b6f7-b66792e204c4)
-![IMG20250123174033](https://github.com/user-attachments/assets/ca86d555-1cab-47ac-8358-411717ad5108)
-![IMG-20250123-WA0018](https://github.com/user-attachments/assets/dd00f017-d24d-4612-a6b4-8718b6f9b1a4)
-![IMG_20250123_173844](https://github.com/user-attachments/assets/1a1b9861-b317-4654-ac53-6c6ec87f7612)
-![IMG-20250123-WA0021](https://github.com/user-attachments/assets/903eed4f-5405-441f-be2c-1349c05c2886)
+![WhatsApp Image 2025-01-23 at 17 41 54(1)](https://github.com/user-attachments/assets/2c736761-079d-46a1-909c-ec5f6f0890f2)
+![WhatsApp Image 2025-01-23 at 17 41 54(2)](https://github.com/user-attachments/assets/b906799b-a69c-41bd-b1fd-cd711eef71d8)
+![WhatsApp Image 2025-01-23 at 17 (2)](https://github.com/user-attachments/assets/4cc1f7a8-bc80-4e15-a32e-669378ea5762)
+![WhatsApp Image 2025-01-23 at 17 41 54(3)](https://github.com/user-attachments/assets/5614b3ac-ec0a-4e68-875f-ce29432bc264)
+![WhatsApp Image 2025-01-23 at 17 30 50](https://github.com/user-attachments/assets/27b65096-fc3c-4c91-8a95-b6e8a31cb76e)
+
 
 Jack in angry mode and in nervous mode: 
 
