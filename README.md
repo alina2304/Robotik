@@ -55,11 +55,23 @@ In the following, we will present our code (shown in its entirety here) for Jack
 
 ![WhatsApp Image 2025-01-23 at 16 49 34](https://github.com/user-attachments/assets/f98240bf-8da2-45e0-9147-71ca9a26e278)
 
+## Follow the Black Line
+
 ![Linie folgen](https://github.com/user-attachments/assets/354a179a-6f8a-4ddb-903d-ead9bbba13d7)
+
+First, we wanted Jack to follow a black line. For better structure in our Code, we used the "Definiere" brick, which can be found by creating a new block under category "Eigene Blöcke". We labeled our new block "Linie folgen". Jack was equipped with a separate motor for each his left and right wheel. In order to follow the line, we used a color sensor. The power of the two motors are depending on the sensors' output. Therefore we defined new variables: "left_pwr" and "right_pwr" (left and right power), "des_pwr" (desired power), "gain" and "b/w". The last one was set to the color sensors output in case it is set exactly on the edge of black and white. Further information are provided in the "Main" section. As you can see, left and right motor power will be equally set to the value of the desired power variable in case that the color sensor is exactly on the black line. Otherwise the difference in powers will lead to a movement to the right or left side. The last brick in this block finally starts the movement with the calculated powers.
+
+## Gripping an Object
+
+![Greifen](https://github.com/user-attachments/assets/0d5afa0e-edef-4e1e-8f35-036da081a42c)
+
+Here, we defined a new block that manages the process of gripping a detected object. Therefore we used the first brick "stoppe andere Stapel" to stop any other processes like Jack moving along the black line. To create a smoother movement we also made Jack wait a second after stopping before he starts gripping the object. The Last brick here refers to another self-created block that defines the action of closing the arms. 
+
+## Opening and Closing Arrms
 
 ![Arme bewegen](https://github.com/user-attachments/assets/282ec485-11e9-4a2d-86a8-7a9271548141)
 
-![Greifen](https://github.com/user-attachments/assets/0d5afa0e-edef-4e1e-8f35-036da081a42c)
+
 
 ![Ausweichen](https://github.com/user-attachments/assets/ba058e99-5d01-4a48-aaae-73b1859d872f)
 
