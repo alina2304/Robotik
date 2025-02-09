@@ -65,7 +65,8 @@ First, we wanted Jack to follow a black line. For better structure in our Code, 
 
 ## Gripping an Object
 
-![Greifen](https://github.com/user-attachments/assets/0d5afa0e-edef-4e1e-8f35-036da081a42c)
+![WhatsApp Image 2025-02-09 at 16 53 37(1)](https://github.com/user-attachments/assets/9221bc8d-e308-427b-89a5-8ff86ab290d2)
+
 
 Here, we defined a new block that manages the process of gripping a detected object. Therefore, we used the first brick "stoppe andere Stapel" to stop any other processes like Jack moving along the black line. To create a smoother movement we also made Jack wait a second after stopping before he starts gripping the object. The Last brick here refers to another self-created block that defines the action of closing the arms. 
 
