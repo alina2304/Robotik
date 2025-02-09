@@ -55,7 +55,15 @@ In the following, we will present our code (shown in its entirety here) for Jack
 
 ![WhatsApp Image 2025-01-23 at 16 49 34](https://github.com/user-attachments/assets/f98240bf-8da2-45e0-9147-71ca9a26e278)
 
+![Linie folgen](https://github.com/user-attachments/assets/354a179a-6f8a-4ddb-903d-ead9bbba13d7)
 
+![Arme bewegen](https://github.com/user-attachments/assets/282ec485-11e9-4a2d-86a8-7a9271548141)
+
+![Greifen](https://github.com/user-attachments/assets/0d5afa0e-edef-4e1e-8f35-036da081a42c)
+
+![Ausweichen](https://github.com/user-attachments/assets/ba058e99-5d01-4a48-aaae-73b1859d872f)
+
+![Main](https://github.com/user-attachments/assets/e330c550-6c75-4d12-ac75-186ea00fd65e)
 dann Erklärung für die verschiedenen Blöcke mit jeweils bildern, welchen Block man gerade beschreibt -> siehe vergleich Spike Dog
 
 # Lessons learned and future works
