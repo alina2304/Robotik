@@ -34,10 +34,16 @@ Pictures of the final version of Jack from different perspectives are shown belo
 
 noch mehr Bilder aus mehreren Perspektiven von dem fertigen Roboter einfügen
 
-![WhatsApp Image 2025-01-23 at 16 (1)](https://github.com/user-attachments/assets/00fe403e-4b70-4bd0-b1e1-228a8913a7dd)
+![IMG_20250123_174120](https://github.com/user-attachments/assets/ea8b04f2-5634-4fe5-b6f7-b66792e204c4)
+![IMG20250123174033](https://github.com/user-attachments/assets/ca86d555-1cab-47ac-8358-411717ad5108)
+![IMG-20250123-WA0018](https://github.com/user-attachments/assets/dd00f017-d24d-4612-a6b4-8718b6f9b1a4)
+![IMG_20250123_173844](https://github.com/user-attachments/assets/1a1b9861-b317-4654-ac53-6c6ec87f7612)
+![IMG-20250123-WA0021](https://github.com/user-attachments/assets/903eed4f-5405-441f-be2c-1349c05c2886)
 
 Jack in angry mode and in nervous mode: 
-(Bilder einfügen von den Augenbrauen-Modi)
+
+![IMG-20250123-WA0020](https://github.com/user-attachments/assets/4f998e54-dba7-48b0-8999-678c8fca358c)
+![IMG_20250209_123139](https://github.com/user-attachments/assets/23b9b419-a5be-4b23-b941-72ae17aac9f9)
 
 # Programming
 For programming Jack the Gripper we used the Lego Spike App and its programming user interface. After opening the app you will see some tutorials and example projects. If you have not programmed before or are unfamiliar with the platform, the "First steps"-Tutorial might be of use to you.
